@@ -51,7 +51,7 @@
 #include <hardware_legacy/vibrator.h>
 
 // Uncomment the following line for debug info
-//#define DROID_VIBRATOR_DEBUG
+#define DROID_VIBRATOR_DEBUG
 
 #define DROID_VIBRATOR_TAG "qtfeedback-droid-vibrator: "
 
